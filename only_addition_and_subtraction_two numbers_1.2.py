@@ -190,3 +190,4 @@ for button in buttons:
 
 
 screen.mainloop() # запуск головного вікна
+#пустий коментар
